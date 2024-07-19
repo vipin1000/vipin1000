@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Vipin Ruhal
+                                                       👋 Hi, I’m Vipin Ruhal
+
+Versatile B.Tech Computer Science graduate specialization in AI/ML. Strong coding skills, internship experience, and successful project delivery. Eager to drive innovation and create impactful tech solutions
+                                                       
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me - ruhalvipin9@gmail.com
 
