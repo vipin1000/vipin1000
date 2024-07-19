@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vipin1000
+- 👋 Hi, I’m Vipin Ruhal
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me ruhalvipin9@gmail.com
 
