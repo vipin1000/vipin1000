@@ -1,8 +1,8 @@
                                                        👋 Hi, I’m Vipin Ruhal
-
-Versatile B.Tech Computer Science graduate specialization in AI/ML. Strong coding skills, internship experience, and successful project delivery. Eager to drive innovation and create impactful tech solutions
+Just a Normal Software Engineer like anyone else.
                                                        
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently working as a python developer
+- 📚 Having amazing sessions in Machine learnig
 - 📫 How to reach me - ruhalvipin9@gmail.com
 
 
